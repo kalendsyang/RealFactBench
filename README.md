@@ -1,6 +1,6 @@
 # RealFactBench
 
-[![arXiv](https://img.shields.io/badge/arXiv-2406.11288-red)](https://arxiv.org/abs/2406.11288)
+[![arXiv](https://img.shields.io/badge/arXiv-2506.12538-red)](https://arxiv.org/abs/2506.12538)
 
 <p align="center"> 
 <img src="figs/overview.png"/>
